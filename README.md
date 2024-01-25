@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marikeiske
 - 👀 I’m interested in learn
-- 🌱 I’m currently js
+
 - 💞️ I’m looking to collaborate on public
 - 📫 How to reach me through ig
 

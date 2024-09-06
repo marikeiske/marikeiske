@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marikeiske
-- 👀 I’m interested in learn
+- 👀 I’m interested in learn Python and React
 
 - 💞️ I’m looking to collaborate on public
 - 📫 How to reach me through ig

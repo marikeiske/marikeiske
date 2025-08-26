@@ -3,7 +3,9 @@
 **`Desenvolvedora Frontend`**
 
 Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Concluí o ensino médio no Senac, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senai Félix Guisard. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no TikTok "[Mariana Programadora](https://www.tiktok.com/@marianaprogramadora)", onde mostro minhas habilidades e dicas para entrar no ITA, também através do Instagram, com o perfil chamado "[MarianaKeiske](https://www.instagram.com/marianakeiske/)".
+
 > Acredito que a melhor forma de aprender é fazendo! 💜
+
 
 <p align="left">
     <a href="https://www.tiktok.com/@marianaprogramadora">
@@ -115,9 +117,23 @@ Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Co
   />
 
 </p>
-
 ---
 
+<p align="left">
+  <a href="mailto:gmarikeiske@gmai.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft-gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/mariana-keiske-903568274/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/marianakeiske/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gmourazz.gmourazz&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
+
+---
+## 
 <p align="left">
   Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
 </p>

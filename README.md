@@ -3,6 +3,7 @@
 **`Desenvolvedora Frontend`**
 
 Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Concluí o ensino médio no Senac, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senai Félix Guisard. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no TikTok "[Mariana Programadora](https://www.tiktok.com/@marianaprogramadora)", onde mostro minhas habilidades e dicas para entrar no ITA, também através do Instagram, com o perfil chamado "[MarianaKeiske](https://www.instagram.com/marianakeiske/)".
+> Acredito que a melhor forma de aprender é fazendo! 💜
 
 <p align="left">
     <a href="https://www.tiktok.com/@marianaprogramadora">
@@ -94,7 +95,8 @@ Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Co
 <br/>
 <br/>
 
-### Estatísticas
+---
+### ⭐ Estatísticas
 
 <p>
   <img 
@@ -113,3 +115,12 @@ Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Co
   />
 
 </p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gmourazz.gmourazz&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
+

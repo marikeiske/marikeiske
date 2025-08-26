@@ -116,11 +116,12 @@ Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Co
 
 </p>
 
+---
+
 <p align="left">
   Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gmourazz.gmourazz&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+
 

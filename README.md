@@ -63,6 +63,7 @@ Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Co
 <br/>
 
 
+---
 
 <td align="left" width="60%">
   
@@ -81,8 +82,5 @@ Me chamo Mariana Keiske, tenho 19 anos e sou natural de Pindamonhangaba - SP. Co
 
 </td>
 
-<td align="right" width="40%">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px"/>
-</td>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>

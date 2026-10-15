@@ -6,7 +6,6 @@ I study how to run AI and safety-critical workloads on **heterogeneous embedded 
 
 ## Research
 
-- **Evaluation of High-Level Programming Models for Critical Heterogeneous Avionics** (with D. S. Loubach), submitted to the *2027 IEEE Aerospace Conference*. Three flight-autonomy kernels in native C++, OpenCL and SYCL; the SYCL layer adds only 11–13 µs per launch, while runtime choice changes performance by up to 13.5×.
 - **Latency analysis in IoT data transmission for advanced manufacturing**, *Int. J. Adv. Manuf. Technol.*, 2026. [doi:10.1007/s00170-026-18369-y](https://doi.org/10.1007/s00170-026-18369-y)
 - **Early detection of leaf diseases in rice plantations with CNNs**, *IEEE INDUSCON*, 2025. [doi:10.1109/INDUSCON66435.2025.11241668](https://doi.org/10.1109/INDUSCON66435.2025.11241668)
 
